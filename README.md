@@ -15,8 +15,22 @@ In this repository you will find two test examples, the first will help you unde
 
 ## Getting Started
 
-Make sure you have Node installed on your computer or go to [Download | Node.js](https://nodejs.org/en/download):
+First of all, make sure you have Node installed on your computer or go to [Download | Node.js](https://nodejs.org/en/download)
 
 ```
 Node version
 ```
+
+Once you have Node.js proceed to create a folder in which you will work your test exercise, you can name it whatever you want. If you're coding in VSCode, open this folder, open the terminal and write:
+
+```
+npm init
+```
+
+This will install all the packages needed for your test, after the installation, you will type:
+
+```
+npx jest --init
+```
+
+With this you will install the Jest Framework to work your tests.
