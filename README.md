@@ -33,4 +33,33 @@ This will install all the packages needed for your test, after the installation,
 npx jest --init
 ```
 
-With this you will install the Jest Framework to work your tests.
+With this you will install the Jest Framework to work your tests. For the installation, a couple of questions will appear, I suggest these answers:
+
+```
+Would you like to use Jest when running "test" script in "package.json"? yes
+```
+```
+Would you like to use Typescript for the configuration file? no 
+```
+```
+Choose the test environment that will be usig for testing. node
+```
+```
+Do you want Jest to add coverage reports? yes
+```
+```
+Wich provider should be used to instrument code for coverage? v8
+```
+```
+Automatically clear mock calls and instances between every test? yes
+```
+
+This last option will create a configuration file "jest.config.js". In order not to run the tests continuously we add in package.json in "scripts" the next ine code:
+```
+"test:watch": "jest --watchAll"
+```
+Finally, when you have your Test Suites configured you can proceed to program some exercise and use the test logic to make a better code. To Run the test:
+
+```
+npm run test:watch
+```
