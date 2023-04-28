@@ -15,7 +15,7 @@ In this repository you will find two test examples, the first will help you unde
 
 ## Getting Started
 
-Make sure you have Node installed on your computer:
+Make sure you have Node installed on your computer or go to [Download | Node.js](https://nodejs.org/en/download):
 
 ```
 Node version
