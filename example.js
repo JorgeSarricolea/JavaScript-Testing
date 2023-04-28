@@ -1,5 +1,5 @@
-function fizzbuzz(number) {
+function example(number) {
     return(number);
 }
 
-module.exports = fizzbuzz;
+module.exports = example;
