@@ -63,3 +63,12 @@ Finally, when you have your Test Suites configured you can proceed to program so
 ```
 npm run test:watch
 ```
+
+I already have all the configuration done and the necessary files created to do the tests, I recommend you guide yourself on how I did them, and so try to do yours.
+
+## Contributing
+While contributions to this repository are welcome. If you would like to contribute, feel free to fork this repository and submit a pull request.
+
+## Credits
+This algorithms were programmed by [Jorge Sarricolea](https://jorgesarricolea.com), if you have any specific code questions or would like to chat about programming, feel free to contact me on [WhatsApp](https://wa.me/529381095593).
+
