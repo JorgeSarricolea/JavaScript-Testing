@@ -50,7 +50,8 @@ node -v
 
 ### Prerequisites
 
-> [!IMPORTANT] > **Node.js:** Ensure that you have Node.js installed on your system.
+> [!IMPORTANT]
+> **Node.js:** Ensure that you have Node.js installed on your system.
 
 Once you have Node.js proceed to create a folder in which you will work your test exercise, you can name it whatever you want. If you're coding in VSCode, open this folder, open the terminal and write:
 
